@@ -51,4 +51,3 @@ tm() {
 
   tmux new-session -A -s "$name"
 }
-[ -f ~/dotfiles/tmux.bash ] && source ~/dotfiles/tmux.bash
